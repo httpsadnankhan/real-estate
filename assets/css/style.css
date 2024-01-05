@@ -76,7 +76,7 @@
     }
 /* End Back to top button */
     .navbar-hero {
-        background-image: url(/assets/images/hero-bg-1.png);
+        background-image: url(https://raw.githubusercontent.com/httpsadnankhan/real-estate/main/assets/images/hero-bg-1.png);
         background-size: 100% 100%;
         background-repeat: no-repeat;
         height: fit-content; 
