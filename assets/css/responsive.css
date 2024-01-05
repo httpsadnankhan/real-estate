@@ -57,7 +57,7 @@
 /*Hero Section*/
     @media screen and (max-width: 768px) {
         .navbar-hero{
-            background-image: url(/assets/images/hero-bg-1.png);
+            background-image: url(https://raw.githubusercontent.com/httpsadnankhan/real-estate/main/assets/images/hero-bg-1.png);
             background-size: cover;
             height: fit-content;
         }
