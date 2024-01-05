@@ -26,7 +26,7 @@ JavaScript: Add interactivity and dynamic features to enhance the user experienc
 ## Project Structure:
 index.html: The main HTML file containing the structure and content of the landing page.
 styles.css: The stylesheet for styling the landing page.
-script.js: JavaScript file for adding interactivity and dynamic functionality.
+main.js: JavaScript file for adding interactivity and dynamic functionality.
 ## Contributing:
 Contributions are welcome! If you have any ideas for improvement or bug fixes, please open an issue or submit a pull request.
 
