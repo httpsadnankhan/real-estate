@@ -8,7 +8,6 @@ Property Showcase: Showcase your featured properties with attractive images and 
 ## How to Use:
 Clone the Repository:
 
-bash
 Copy code
 git clone https://github.com/httpsadnankhan/real-estate.git
 Open Index.html:
